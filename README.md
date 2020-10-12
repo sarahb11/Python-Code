@@ -1,7 +1,7 @@
 This is a simple program created to encode or decode a message using the Vigenere cipher. 
 
 The Cipher:
-In the Vignere cipher, rather than shifting the entire alphabet over by a constant amount
+In the Vigenere cipher, rather than shifting the entire alphabet over by a constant amount
 (which is relatively easy to crack), a keyword/phrase is used to establish a pattern by 
 which the message will be encoded.
 
